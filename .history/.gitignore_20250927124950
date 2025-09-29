@@ -11,6 +11,3 @@ wheels/
 
 #firebase json
 firebase_config.json
-
-#env files
-.env

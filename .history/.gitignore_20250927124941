@@ -9,8 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-#firebase json
+#add my firebase file
 firebase_config.json
-
-#env files
-.env
